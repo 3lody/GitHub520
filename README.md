@@ -24,21 +24,45 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
+3.92.60.5                     github.githubassets.com
 140.82.114.4                  central.github.com
+3.92.58.45                    desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
+44.210.106.186                camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
+185.199.108.153               github.io
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
+44.192.86.244                 raw.githubusercontent.com
+3.234.142.245                 user-images.githubusercontent.com
+18.208.202.174                favicons.githubusercontent.com
+44.195.31.118                 avatars5.githubusercontent.com
+54.167.200.250                avatars4.githubusercontent.com
+3.238.135.141                 avatars3.githubusercontent.com
+3.236.232.101                 avatars2.githubusercontent.com
+54.145.46.91                  avatars1.githubusercontent.com
+3.238.135.141                 avatars0.githubusercontent.com
+18.206.248.39                 avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+140.82.112.18                 github.community
+54.174.35.169                 media.githubusercontent.com
 
 
-# Update time: 2022-11-27T08:34:09+08:00
+# Update time: 2022-11-27T10:58:32+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-27T08:34:09+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-27T10:58:32+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
